@@ -11,8 +11,7 @@ then install the requirements with:
 ```bash
 composer install
 ```
-
-## Usage
+then follow this steps:
 1. Create a Telegram bot and get the token from @BotFather,
 2. Create a database and get the credentials,
 3. Find the IMAP information of your mail registered on Fiverr,
@@ -32,6 +31,8 @@ MYSQL_USER= YOUR MYSQL USER
 MYSQL_PASS= YOUR MYSQL PASSWORD
 MYSQL_DATABASE= YOUR MYSQL DATABASE
 ```
+
+and run the website! application creates the database tables automatically.
 ## Cronjob's
 
 ### Scan
